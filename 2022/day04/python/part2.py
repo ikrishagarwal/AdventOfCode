@@ -12,10 +12,8 @@ with open(file_path) as f:
 
         if elf2[1] >= elf1[0] >= elf2[0] or elf2[0] <= elf1[1] <= elf2[1]:
             overlaps += 1
-            print(line)
 
         elif elf1[0] <= elf2[0] <= elf2[1] and elf1[1] >= elf2[1] >= elf1[0]:
             overlaps += 1
-            print(line)
 
     print(overlaps)
