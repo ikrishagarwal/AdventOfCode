@@ -8,3 +8,4 @@
 | Day 02: Rock Paper Scissors     | ⭐⭐   |
 | Day 03: Rucksack Reorganization | ⭐⭐   |
 | Day 04: Camp Cleanup            | ⭐⭐   |
+| Day 05: Supply Stacks           | ⭐⭐   |
