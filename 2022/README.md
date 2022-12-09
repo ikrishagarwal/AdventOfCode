@@ -12,3 +12,4 @@
 | Day 06: Tuning Trouble          | ⭐⭐   |
 | Dat 07: No Space Left On Device |        |
 | Day 08: Treetop Tree House      | ⭐⭐   |
+| Day 09: Rope Bridge             | ⭐⭐   |
